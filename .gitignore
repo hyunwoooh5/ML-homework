@@ -1,3 +1,7 @@
 .venv
 .DS_store
 *.csv
+*.zip
+workshop/
+*.txt
+data/
